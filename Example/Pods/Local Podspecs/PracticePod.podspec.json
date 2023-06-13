@@ -1,0 +1,22 @@
+{
+  "name": "PracticePod",
+  "version": "0.1.0",
+  "summary": "A short description of PracticePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Joel Kingsley/PracticePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Joel Kingsley": "joelkingsley.r@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Joel Kingsley/PracticePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PracticePod/Classes/**/*"
+}

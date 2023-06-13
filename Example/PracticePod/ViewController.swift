@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import PracticePod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let practiceClass = PracticeClass()
+        practiceClass.practiceFunction()
     }
 
     override func didReceiveMemoryWarning() {

@@ -1,0 +1,16 @@
+PODS:
+  - PracticePod (0.1.0)
+
+DEPENDENCIES:
+  - PracticePod (from `../`)
+
+EXTERNAL SOURCES:
+  PracticePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PracticePod: e9249a2f1f59b25fb0ad3d0a61b61423689ce83f
+
+PODFILE CHECKSUM: 16744427909d8c301b9b76129fe8757df4f3efd5
+
+COCOAPODS: 1.12.1
